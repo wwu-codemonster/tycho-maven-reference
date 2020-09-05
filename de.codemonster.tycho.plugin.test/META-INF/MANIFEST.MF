@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Test
+Bundle-SymbolicName: de.codemonster.tycho.plugin.test
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: wwu-codemonster
+Fragment-Host: de.codemonster.tycho.plugin;bundle-version="[1.0.0,2.0.0)"
+Automatic-Module-Name: de.codemonster.tycho.plugin.test
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.junit
